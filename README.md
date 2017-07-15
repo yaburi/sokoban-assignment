@@ -38,3 +38,16 @@ Level 11 in theme 2. The red projectiles are shot out of the red boxes that foll
 Level 12 in theme 1. The purple projectiles are like the red projectiles but even faster and are shot at an angle to make it even more difficult for the player.
 
 ![lvl12](http://i.imgur.com/1eovHM5.png)
+
+## Two player map
+We prebuilt a two player map:
+
+![twoplayer](http://i.imgur.com/7MqP5pv.png)
+
+## Map generator (Random maps)
+Using our map generator, here are a few maps that were made:
+
+![random1](http://i.imgur.com/VcEosTb.png)
+![random2](http://i.imgur.com/QHqsqjy.png)
+![random3](http://i.imgur.com/EXayLy4.png)
+
